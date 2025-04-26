@@ -80,17 +80,5 @@ SET starts my Kali Linux Webserver on port 80, with the fake Google account logi
 
 
 
-
-In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
-
-
-
-![{1FDA3E9C-C2D8-469C-9DDE-74F6E5D70BAF}](https://github.com/user-attachments/assets/eb20c3b6-65d0-4e3e-ae9e-33e84551c44e)
-
-
-
-
-
-
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
